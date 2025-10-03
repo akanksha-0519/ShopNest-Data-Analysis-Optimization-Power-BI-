@@ -1,4 +1,4 @@
-# ShopNest-Data-Analysis-Optimization-Power-BI-
+# Data Analysis Optimization - PowerBI
 ## Dashboard Designing 
 
 What I Did:
